@@ -6,3 +6,8 @@
         />
     </h1>
 </div>
+<div align="center">
+    <p>
+        <img src="https://media.giphy.com/media/44dnaTajT9iZG/giphy.gif" alt="Descriptive Text for the GIF" />
+    </p>
+</div>
