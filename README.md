@@ -8,6 +8,6 @@
 </div>
 <div align="center">
     <p>
-        <img src="https://media.giphy.com/media/44dnaTajT9iZG/giphy.gif](https://media.tenor.com/55GQW08LWVsAAAAC/scratch-running.gif" alt="Descriptive Text for the GIF" />
+        <img src="https://media.tenor.com/55GQW08LWVsAAAAC/scratch-running.gif" alt="Descriptive Text for the GIF" />
     </p>
 </div>
