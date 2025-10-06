@@ -11,23 +11,22 @@
 </div>
 
 <!-- Intro and summary text block -->
-  <div style="text-align: center; max-width: 600px; margin: auto; line-height: 1.5; font-size: 16px;">
+<div style="text-align: center; max-width: 600px; margin: auto; line-height: 1.5; font-size: 16px;">
+  <p>
+    Computing and Law Undergraduate at SMU.
+    To build my technical skills, I’ve embarked on some personal projects here!
+    My passion lies in learning languages, martial arts, and cooking,
+    so you might notice some of my projects drawing inspiration from these interests!
+  </p>
+
+  <details>
+    <summary align="center">
+      <h2>My first stint</h2>
+    </summary>
     <p>
-      Computing and Law Undergraduate at SMU.
-      To build my technical skills, I’ve embarked on some personal projects here!
-      My passion lies in learning languages, martial arts, and cooking,
-      so you might notice some of my projects drawing inspiration from these interests!
+      If you're wondering about my profile picture, the Scratch cat represents my initial encounters with coding, which started in primary and secondary school when the school occasionally brought in Scratch vendors to spark interest. I didn't find coding particularly interesting then, but eventually found the appeal after entering university, with my first programming language being Python (hence the cat and Python). Signifying a journey full of firsts, I hope to explore novel ideas and projects here.
     </p>
-
-    <details>
-      <summary align="center">
-        <h2>My first stint</h2>
-      </summary>
-
-      <p>
-        If you're wondering about my profile picture, the Scratch cat represents my initial encounters with coding, which started in primary and secondary school when the school occasionally brought in Scratch vendors to spark interest. I didn't find coding particularly interesting then, but eventually found the appeal after entering university, with my first programming language being Python (hence the cat and Python). Signifying a journey full of firsts, I hope to explore novel ideas and projects here.
-      </p>
-    </details>
+  </details>
 
 **Tech Stack:**  
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5" alt="HTML5" />
