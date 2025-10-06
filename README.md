@@ -17,8 +17,9 @@
   </p>
   <p align="center">
     To build my technical skills, I’ve embarked on some personal projects here!
-    My passion lies in learning languages, martial arts, and cooking,
-    so you might notice some of my projects drawing inspiration from these interests!
+  </p>
+  <p align="center">
+    My passion lies in learning languages, martial arts, and cooking, so you might notice some of my projects drawing inspiration from these interests!
   </p>
 
   <details>
@@ -26,11 +27,14 @@
       <h3>My first stint</h3>
     </summary>
     <p align="center">
-      What's with the profile pic? The Scratch cat represents my initial encounters with coding, which started in primary and secondary school when the school occasionally brought in Scratch vendors to spark interest. I didn't find coding particularly interesting then, but eventually found the appeal after entering university, with my first programming language being Python (hence the cat and Python). Signifying a journey full of firsts, I hope to explore novel ideas and projects here.
+      What's with the profile pic?
+    </p>
+    <p align = "center">
+     The Scratch cat represents my initial encounters with coding, which started in primary and secondary school when the school occasionally brought in Scratch vendors to spark interest. I didn't find coding particularly interesting then, but eventually found the appeal after entering university, with my first programming language being Python (hence the cat and Python). Signifying a journey full of firsts, I hope to explore novel ideas and projects here.
     </p>
   </details>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
