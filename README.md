@@ -20,16 +20,20 @@
     </p>
 
     <details>
- 	 <summary>My first stint</summary>
-If you're wondering about my profile picture, the Scratch cat represents my initial encounters with coding, which started in primary and secondary school when the school occasionally brought in Scratch vendors to spark interest.
- I didn't find coding particularly interesting then, but eventually found the appeal after entering university, with my first programming language being Python (hence the cat and Python).
-  Signifying a journey full of firsts, I hope to explore novel ideas and projects here.
-</details>
+      <summary align="center">
+        <h2>My first stint</h2>
+      </summary>
+
+      <p>
+        If you're wondering about my profile picture, the Scratch cat represents my initial encounters with coding, which started in primary and secondary school when the school occasionally brought in Scratch vendors to spark interest. I didn't find coding particularly interesting then, but eventually found the appeal after entering university, with my first programming language being Python (hence the cat and Python). Signifying a journey full of firsts, I hope to explore novel ideas and projects here.
+      </p>
+    </details>
 
 **Tech Stack:**  
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5" alt="HTML5" />
+ <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5" alt="HTML5" />
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php" alt="PHP" />
 <img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python" alt="Python" />
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql" alt="MySQL" />
 <img src="https://img.shields.io/badge/figma-%23F24E1F.svg?style=for-the-badge&logo=figma" alt="Figma" />
-</div>
+
+  </div>
