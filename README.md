@@ -17,7 +17,8 @@
   </p>
   <p align="center">
     To build my technical skills, I’ve embarked on some personal projects here!
-  
+  </p>
+  <p align="center">
     Outside of coding, my passion lies in learning languages, martial arts and cooking, so you might notice some of my projects drawing inspiration from these interests!
   </p>
 
@@ -28,7 +29,7 @@
     <p align="center">
       What's with the profile pic?
     </p>
-    <p>
+    <p align="center">
      The Scratch cat represents my initial encounters with coding, which started in primary and secondary school when the school occasionally brought in Scratch vendors to spark interest. I didn't find coding particularly interesting then, but eventually found the appeal after entering university, with my first programming language being Python (hence the cat and Python). Signifying a journey full of firsts, I hope to explore novel ideas and projects here.
     </p>
   </details>
