@@ -12,8 +12,10 @@
 
 <!-- Intro and summary text block -->
 <div style="text-align: center; max-width: 600px; margin: auto; line-height: 1.5; font-size: 16px;">
-  <p>
+  <p align="center">
     Computing and Law Undergraduate at SMU.
+  </p>
+  <p>
     To build my technical skills, I’ve embarked on some personal projects here!
     My passion lies in learning languages, martial arts, and cooking,
     so you might notice some of my projects drawing inspiration from these interests!
@@ -21,10 +23,10 @@
 
   <details>
     <summary align="center">
-      <h2>My first stint</h2>
+      <h3>My first stint</h3>
     </summary>
     <p>
-      If you're wondering about my profile picture, the Scratch cat represents my initial encounters with coding, which started in primary and secondary school when the school occasionally brought in Scratch vendors to spark interest. I didn't find coding particularly interesting then, but eventually found the appeal after entering university, with my first programming language being Python (hence the cat and Python). Signifying a journey full of firsts, I hope to explore novel ideas and projects here.
+      What's with the profile pic? The Scratch cat represents my initial encounters with coding, which started in primary and secondary school when the school occasionally brought in Scratch vendors to spark interest. I didn't find coding particularly interesting then, but eventually found the appeal after entering university, with my first programming language being Python (hence the cat and Python). Signifying a journey full of firsts, I hope to explore novel ideas and projects here.
     </p>
   </details>
 
