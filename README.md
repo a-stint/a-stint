@@ -33,7 +33,17 @@
     </p>
   </details>
 
-## 💻 Tech Stack:
+  <details>
+    <summary align="center">
+      <h3>Wise words</h3>
+    </summary>
+      <blockquote>
+        <p align="center">"First, make it, then, make it work, lastly, if you can, make it pretty"
+        </p>
+      </blockquote>
+  </details>
+
+## 💻 Tech Skills:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
